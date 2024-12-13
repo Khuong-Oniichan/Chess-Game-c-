@@ -54,8 +54,8 @@ Welcome to the **Chess Game** project! This game is built using **C++** and leve
 1. Launch the game by running the executable.
 2. A graphical chessboard will appear.
 3. Choose a mode:
-   - **Player vs Player**: Two players take turns making moves.
-   - **Player vs AI**: Choose AI difficulty (Easy, Medium, Hard), choose Black or White and play against the computer.
+   - **Human vs Human**: Two players take turns making moves.
+   - **Human vs BOT**: Choose AI difficulty (Easy, Medium, Hard), choose Black or White and play against the computer.
 4. Use the graphical interface to:
    - Select and move pieces by clicking on them.
    - Highlight legal moves for the selected piece.
