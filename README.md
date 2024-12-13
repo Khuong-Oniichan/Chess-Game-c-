@@ -115,7 +115,7 @@ chess-game/
 
 ## Future Features
 
-- **Multiplayer Online**: Enable online matches via sockets.
+- **Multiplayer Online**: Enable online matches.
 - **Enhanced Graphics**: Improve board and piece designs.
 - **Piece Animations**: Add animations for smoother gameplay.
 - **Fullscreen Support**: Implement the ability to resize or maximize the game window to fullscreen.
