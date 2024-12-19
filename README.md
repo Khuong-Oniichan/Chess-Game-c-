@@ -40,7 +40,7 @@ Welcome to the **Chess Game** project! This game is built using **C++** and leve
 
 ### Steps
 #### Option 1: Run Pre-Built Executable
-1. Locate the `chess.exe` file in the project folder.
+1. Locate the `ChessGame.exe` file in the project folder.
 2. Double-click the file to launch the game.
 
 #### Option 2: Build from Source
